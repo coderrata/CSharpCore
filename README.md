@@ -1,0 +1,2 @@
+# CSharpCore
+Core Assignments
